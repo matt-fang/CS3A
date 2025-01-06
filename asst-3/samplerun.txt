@@ -1,0 +1,50 @@
+-- sample run 1 w/ valid input --
+
+Please enter your name: Matthew
+Hi Matthew, let's explore some historical temperatures.
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? 3
+option 3 is not functional yet
+
+-- sample run 2 w/ out-of-range integer input --
+
+Please enter your name: Matthew
+Hi Matthew, let's explore some historical temperatures.
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? 10
+your choice is out of range
+
+-- sample run 3 w/ non-integer input --
+
+Please enter your name: Matthew
+Hi Matthew, let's explore some historical temperatures.
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? four
+please enter a numerical value

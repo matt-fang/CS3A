@@ -1,0 +1,64 @@
+-- sample run 1 w/ valid, non-numerical, out-of-range, valid, then quit selections --
+
+Please enter your name: Matthew
+Hi Matthew, let's explore some historical temperatures.
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? 3
+option 3 is not functional yet
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? e
+please enter a numerical value
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? 12
+your choice is out of range
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? 4
+option 4 is not functional yet
+
+Main Menu
+1 - Load dataset one
+2 - Load dataset two
+3 - Compare average temperatures
+4 - Dates above threshold temperature
+5 - Highest historical dates
+6 - Change start and end dates for dataset one
+7 - Change start and end dates for dataset two
+9 - Quit
+What is your choice? 9
+bye bye! thanks for using our database.
